@@ -1,14 +1,15 @@
-### Hi there, I'm Lala Sabathil
+### Hi, I'm f1z1x
 
 ---
 
 <br />
 
-- 👯 I’m looking forward to collaborate on interesting Projects
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: I identify as cat sometimes and yes I bite.
-- My Discord Lib: https://github.com/Aiko-IT-Systems/DisCatSharp
-- Working for https://sideplus.com
+- 
+- Pronouns: Hi/His
+- I'm from Ukraine 🇺🇦 
+- I like to make different bots
+- My discord: @metamorphosis#7272
+- 
 
 <br/>
 
