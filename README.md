@@ -4,11 +4,10 @@
 
 <br />
 
-- 
 - Pronouns: Hi/His
 - I like to make different bots
 - My discord: @metamorphosis#7272
-- 
+- Dogs or cats? Dogs
 
 <br/>
 
