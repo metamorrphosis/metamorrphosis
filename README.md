@@ -6,7 +6,6 @@
 
 - 
 - Pronouns: Hi/His
-- I'm from Ukraine 🇺🇦 
 - I like to make different bots
 - My discord: @metamorphosis#7272
 - 
