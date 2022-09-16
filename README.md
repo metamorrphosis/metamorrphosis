@@ -14,7 +14,7 @@
 
 
 
-### - GitHub Stats:
+### GitHub Stats:
 
 ![f1z1x Github stats](https://github-readme-stats.vercel.app/api?username=f1z1x&theme=radical&show_icons=true&count_private=true)
   
