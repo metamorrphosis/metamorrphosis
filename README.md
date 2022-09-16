@@ -20,5 +20,5 @@
   
  
 ![Lalas Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=f1z1x&theme=solarized_dark)
-![Lalas Stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=f1z1x&theme=solarized_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=f1z1x&theme=github_dark&utcOffset=8)
 ![Lala Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=f1z1x&theme=solarized_dark)
