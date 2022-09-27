@@ -4,7 +4,7 @@
 
 <br />
 
-- Pronouns: Hi/His
+- Pronouns: Hi/Him
 - I like to make different bots
 - My discord: @metamorphosis#7272
 - Dogs or cats? Dogs
