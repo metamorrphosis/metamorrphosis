@@ -5,7 +5,7 @@
 <br/>
 
 - Pronouns: Hi/Him
-- I like to make different bots
+- I like to make different bots, machine learning, AI
 - Dogs or cats? Dogs
 
 <br/>
